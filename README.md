@@ -1,9 +1,6 @@
 # Welcome to [*Solvable*](https://our_website_link.com) :sunglasses: <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
-### Providing technical assistance to NGOs for free
-[![Discord Badge](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/gDXnDMDk)](https://discord.gg/gDXnDMDk) 
+### Providing technical assistance to NGOs for free 
 [![Gmail Badge](https://img.shields.io/badge/-solvable.06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solvable.06@gmail.com)](mailto:solvable.06@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.solvable._/)](https://www.instagram.com/_.solvable._/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://bit.ly/solvable-telegram-invite)](https://bit.ly/solvable-telegram-invite)
 <!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/x-solvable-x?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/x-solvable-x/x-solvable-x?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/x-solvable-x?style=for-the-badge">
 
